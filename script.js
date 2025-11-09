@@ -1,5 +1,5 @@
 // WhatsApp Channel URL - Replace with your actual WhatsApp channel link
-const WHATSAPP_CHANNEL_URL = 'https://whatsapp.com/channel/your-channel-link';
+const WHATSAPP_CHANNEL_URL = 'https://whatsapp.com/channel/0029VbBxUXS1NCrNv9hznt2e';
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', function() {
